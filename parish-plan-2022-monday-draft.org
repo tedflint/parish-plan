@@ -1,0 +1,716 @@
+
+#+OPTIONS: toc:nil author:nil date:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=0.8in]{geometry}
+#+LATEX_HEADER: \usepackage{longtable}
+#+SETUPFILE: ~/Dropbox/emacs/config/notes-style.org
+
+#+TITLE: Upper Deverills Parish Plan 2022 
+
+
+* Foreword by Andrew Murrison MP
+/[This is the foreword to the 2014 plan, which I have included here for illustration only.  We will have a fresh foreword for the final version.]/
+
+#+BEGIN_QUOTE
+I am delighted to introduce this Parish Plan which is the work of the residents in Brixton Deverill, Kingston Deverill and Monkton Deverill. All involved, including those who responded to questionnaires and came to consultations, the Parish Council and the Plan Team, are to be congratulated on a document of real worth and great potential utility. It should serve the Parish well for several years.
+
+The planning authority, Wiltshire Council will always benefit from local input in addressing the particular needs of small communities, especially when resources are scarce. Community action has therefore become very much the way forward when residents want something to happen. This formal expression of the Parish’s ambitions and needs is the first and most important foundation for future effective action.
+
+The preparation of a Village Design Statement is suggested. We are all very lucky to be living in such a beautiful part of England and such beauty needs to be nurtured and protected. A Design Statement is one way doing this and I very much encourage the further work it will require.
+
+The Parish needs also to evolve and develop in its appeal across the generations of the families already here and to come. So some change is necessary, and this plan, in the process of its preparation, makes that possible. 
+
+The Plan is a good piece of work and its authors are to be congratulated. 
+#+END_QUOTE
+
+Andrew Murrison MP
+House of Commons
+
+#+CAPTION: Court Hill in the morning mist
+#+ATTR_HTML: :alt Court Hill :align center
+[[https://www.upperdeverills.co.uk/wp-content/uploads/2020/04/fullsizeoutput_2712-1030x773.jpeg]]
+
+* Upper Deverills Parish Plan 
+** Contents 
+- Foreword  by Andrew Murrison MP 
+- Introduction - about the Parish Plan  
+- What  policies, plans and designations apply to the Upper Deverills ?
+- Parish Plan statistics 
+- What you said about priorities
+- The Parish and our villages 
+- Themes:
+  - Traffic and transport
+  - Mobile phone communications
+  - Nature conservation and sustainability
+  - Planning 
+  - Community facilities and activitites
+  - Policing and community safety
+  - Health and social care
+  - Flooding
+  - Dark skies
+- Summary: our vision and values 
+- Way Forward and Action Plan 
+- Annexes
+  1. Listed Buildings
+  2. Clubs, Associations and Groups in the Parish
+  3. Parish Plan Working Group members 
+** Acknowledgements: 
+The Parish Plan Working group is grateful to all those who participated in the production of this Plan. The contribution by residents and support by the Parish Council has been essential in the  work undertaken to capture local opinion, run the consultation event and present the results on this web site and the associated printed booklet. We would like to thank all those who, by showing support, giving their views or attending events, have enabled the production of our Parish Plan.
+ 
+Ted Flint, Richard Kitson and Richard Munro
+** Acceptance: 
+On behalf of the Parish Council I welcome and accept our Parish Plan.
+The Parish Council wishes to express their gratitude to the Working
+Group, to parishioners and to all those who took part in producing the
+plan.
+ 
+/[Whoever is the Chair]/ 
+Chair, Upper Deverills Parish Council 
+** Website:
+The Parish Plan, and much more, is available on the Upper
+Deverills website: [[https://www.upperdeverills.co.uk/]].
+
+#+CAPTION: The Ford
+#+ATTR_HTML: :alt The Ford :align center
+[[https://www.upperdeverills.co.uk/wp-content/uploads/2020/04/7SO7OGFSa0AGa92nPVA-1030x773.jpg]]
+* Introduction
+** Why write a Parish Plan? 
+The White Paper /Our Countryside – The Future/, published by the Government in 2000, encouraged local communities to assume greater responsibility for their own futures. This implied the need for communities to decide how they viewed their neighbourhoods, what they wanted preserved and conserved, and what was needed in the way of improvements and changes to key facilities and services. Communities would also decide how these would be implemented over time. In short, it encouraged Parish Planning.
+
+The first Parish Plan for the Upper Deverills was created in 2014, after a tremendous amount of work by a working group comprising Peter Marsh (Chairman), Andrea Llewellyn, the late Michael Mounde and Sarah Jeffries, who provided administrative and much other support.
+
+In preparing the 2022 version of the Plan we have very deliberately taken the approach of building on our predecessors' excellent work rather than starting afresh.
+
+There are three principal audiences for this Plan:
+*** External organisations including local government and planning authorities
+The Plan can be regarded as a formal statement of the voice of the Upper Deverills when considering decisions that affect us.
+*** The Upper Deverills Parish Council
+The Parish Council can use the Plan as a guide to the wishes of the community.
+*** Us!  The residents of the Upper Deverills.
+We can use the  Plan to remind us what we agree is important and to encourage us to organise to play our part in delivering it.  Although there is much in this Plan which requires external action by powers beyond our valley community, there is also a great deal that we can do ourselves.  This includes setting up interest groups, campaigning (including writing letters, sending emails and attending public meetings), collecting evidence, participating in consultations, supporting community facilities and activities, and helping each other out directly in difficult times.  Not only will this help us to work towards our vision of what we want our community to be, it will also strengthen our sense of belonging and identity.
+
+To help us all to do this, we have included in this version of the Plan plenty of information to help you get involved, often in the form of links to other sources of information.  These links will also be available on the Upper Deverills web site.
+** How we went about making this plan
+The scope of this Plan is the area covered by the Upper Deverills Parish Council, which  encompasses the villages of Brixton Deverill, Monkton Deverill and Kingston Deverill and the surrounding countryside,  often informally referred to as /the Valley/.
+
+In September 2021 the Parish Council resolved to set up a new working group to update and develop the 2014 Parish Plan.  As in 2014, the Working Group has worked alongside the Parish Council rather than taking direction from it, in order to be able to capture the authentic voice of the valley's residents.
+
+In view of the continuing challenges and risks presented by the COVID-19 pandemic and the associated restrictions on public gatherings, the Working Group has not undertaken the same level of face-to-face meetings as its predecessors. Nevertheless the Plan is the result of careful questioning and consultation.
+
+The process started in November 2021 with a questionnaire that could be completed either online (using Survey Planet) or on paper.  Returns submitted on paper were transcribed into Survey Planet by the members of the Working Group in order to enable them to analysed together with the online responses.
+
+There were 48 responses to the questionnaire, which represents 31% of the 154 households in the three villages.  The results were collated and presented to a public meeting at the Village Hall on 19 February 2022.  They generated a high level of interest and a lively discussion during which the Working Group was able to capture a number of further comments and ideas.
+
+Following the public meeting the first draft of the Plan was completed by 9 March and was circulated online and with the Parish News for further comment.  The finished Plan was presented at the Parish Meeting on 20 April and subsequently made available to every resident of the three villages.
+* What other policies, plans and designations apply to the Upper Deverills?
+Our villages lie in the county of Wiltshire and the Warminster Community Area, and fall within the Cranborne Chase and West Wiltshire Downs Area of Outstanding Natural Beauty, which is part of the extensive belt of chalkland that stretches across southern England.  The landscape is dominated by the River Wylye (known here as the Deverill), which is a clear, fast flowing chalk stream, together with smooth rounded downs, steeply cut combes and dry valleys.  The six farms in the Parish mix large rectangular arable fields with traditional downland pasture on the steeper slopes, with several damp pastures on the clay in the valley bottom. The Parish's three villages Brixton Deverill, Monkton Deverill and Kingston Deverill, lie on the river at the foot of the valley slopes.
+
+The particular rural beauty of our Parish, and the unusually rich history and archaeology, mean that we are the subject of a number of plans and policies that together seek to preserve and maintain its character.  In addition, we are covered by national policies and by those laid down by Wiltshire Council.  Some of these are explained here.
+*** Wiltshire Council’s Core Strategy.
+The Wiltshire Core Strategy was adopted in 2015.  It sets out the council's spatial vision, key objectives, and overall principles for development in the county.
+
+The spatial vision for Wiltshire is as follows:
+
+#+BEGIN_QUOTE
+By 2026 Wiltshire will have stronger, more resilient communities based on a sustainable pattern of development, focused principally on Trowbridge, Chippenham and Salisbury. Market towns and service centres will have become more self-contained and supported by the necessary infrastructure, with a consequent reduction in the need to travel. In all settlements there will be an improvement in accessibility to local services, a greater feeling of security and the enhancement of a sense of community and place. This pattern of development, with a more sustainable approach towards transport and the generation and use of power and heat, will have contributed towards tackling climate change.
+
+Employment, housing and other development will have been provided in sustainable locations in response to local needs as well as the changing climate and incorporating exceptional standards of design. Wiltshire’s important natural, built and historic environment will have been safeguarded and, where necessary, extended and enhanced to provide appropriate green infrastructure, while advantage will have been taken of Wiltshire’s heritage to promote cultural and lifestyle improvements as well as tourism for economic benefit.
+
+Partnership working with communities will have helped plan effectively for local areas and allow communities to receive the benefi t of managed growth, where appropriate.
+#+END_QUOTE
+
+ The Council's approach to delivering this vision is  summarized in six strategic objectives:
+
+ #+BEGIN_QUOTE
+ 1. Delivering a thriving economy. 
+ 2. Addressing climate change .
+ 3. Providing everyone with access to a decent, affordable home.
+ 4. Helping to build resilient communities.
+ 5. Protecting and enhancing the natural, historic and built environment.
+ 6. Ensuring that adequate infrastructure is in place to support our communities.
+#+END_QUOTE
+
+The main implication of this Strategy for the Upper Deverills is to limit housing and employment growth to meet agricultural need only, subject to some exceptions.
+
+Link:
+[[https://www.wiltshire.gov.uk/planning-policy-core-strategy][The Wiltshire Core Strategy]].
+*** Cranborne Chase  Area of Outstanding Natural Beauty (AONB) Management Plan.  
+The Upper Deverills Parish lies in the north west of the Cranborne Chase AONB area.  The prime purpose of the AONB designation is to conserve and enhance the natural and scenic beauty of the landscape.  The AONB Management Plan sets out the following vision:
+#+BEGIN_QUOTE
+ In 2030, the Cranborne Chase AONB will be an inspirational example of sustainable management in action.
+
+A nationally appreciated place where:
+- its distinctive local landscapes, historic heritage, and wildlife are conserved and enhanced by those who work and manage the land, nurturing a valued and treasured countryside for future generations
+- its healthy soils, clean air and water are appreciated, prized and respected by all
+- its characteristic vibrant villages, profoundly rural character, and local sense of pride are tangible to all who live and visit here, or just pass through
+- the breadth and depth of historic land use offers up its stories in the landscape today
+- its cultural heritage is conserved, understood, enhanced, valued and enjoyed
+- the aesthetic qualities of the landscape and environment, along with the sense of wonder and enjoyment, are appreciated by all
+- the quality of life remains high and the aspirations of those who live and work here are supported
+#+END_QUOTE
+
+In order to achieve this vision the AONB Management Plan sets out five priorities:
+
+#+BEGIN_QUOTE
+1. The profile of Cranborne Chase AONB will be significantly raised through signage, community events and activities; and significantly enhanced communications.
+2. The dark night skies of this AONB will be conserved and enhanced with the benefits valued and appreciated by communities and visitors alike.
+3. Extensive collaboration with farmers, foresters, landowners, relevant agencies and local communities will champion integrated, enhanced management of the AONB’s landscapes delivering measurable enhancements to the AONB’s natural and historic environment, showcasing partnership working within a designated landscape.
+4. Led by field based staff, there will be multiple opportunities for volunteers of all ages and abilities to help conserve and enhance the landscapes of the AONB whilst improving health and wellbeing.
+5. The suite of projects within the Cranborne Chase and Chalke Valley Landscape Partnership Scheme bid will measurably enhance the natural, historic and cultural environments of this AONB.
+   #+END_QUOTE
+
+The plan sets out an ambition that planning and transportation strategies, policies and decisions that affect the AONB both conserve and enhances its special qualities.  Where development is necessary, it is located and designed to integrate fully with the landscape character and natural beauty.  All management of roads, and improvements to road, will enhance the distinctive character of the area.  There will be a range of more sustainable options for transport that reduce its effects on tranquillity and the natural environment of the AONB.
+
+All planning applications over a certain size, or any applications that might have an adverse impact on the AONB, are sent to the AONB Partnership (its governing body) for comment.  The AONB has published a number of Best Practice Notes to inform planning and development decisions.
+
+Link:
+- [[https://cranbornechase.org.uk/publications/aonb-management-plan/][The Cranborne Chase AONB Management Plan]].
+*** Heritage Designations
+The Parish is in an area of high archaological potential.  It is rich in scheduled monuments, including  several isolated Neolithic long barrows, Bronze Age round barrows, a Romano-Celtic temple and a recently discovered and important Roman villa in Brixton Deverill.   Those sites designated as Scheduled Monuments receive special statutory protection, as do the many listed buildings in our villages, which are set out at Annex B to this Plan.
+
+Links:
+- [[https://ancientmonuments.uk/england/kingston-deverill-wiltshire][A map of scheduled monuments in the Upper Deverills]]
+- [[https://historicengland.org.uk/listing/the-list/list-entry/1448408][The Roman Villa at Brixton Deverill]]
+*** Scientific and Conservation Interest
+The chalk grassland which forms our downland is of particular conservation interest, particularly when it is unimproved.  We have in the Parish one large (193.7 hectare) Site of Scientific Interest known as  Brimsdown Hill,  lying to the north of Kingston Deverill.  The River Wylye and its banks, as well as substantial areas of downs and farmland, are designated as areas of high ecological value and sites of nature conservation interest.
+
+Links:
+- [[https://naturalengland-defra.opendata.arcgis.com/datasets/sites-of-special-scientific-interest-england/explore?location=51.147995%2C-2.229108%2C14.00][The Natural England map showing Brimsdown Hill Site of Special Scientific Interest]]
+- [[https://web.archive.org/web/20061013130147/http://www.english-nature.org.uk/citation/citation_photo/1002335.pdf][The English Nature citation for the Brimsdown Hill Site of Special Scientific Interest]]
+*** Warminster and Villages Community Area Board. 
+Wiltshire Council has set up Community Area Boards.  The Upper Deverills falls within the remit of Warminster and Villages Community Area Board.  This is how the Council describes its purpose:
+#+BEGIN_QUOTE
+Area Boards are a way of working to bring local decision making into the heart of the community. They are not like old-fashioned council meetings and there are lots of opportunities for local people to get involved. 
+
+Meetings take place in each community area and between these meetings different task groups consisting of local people, Wiltshire Council staff and councillors tackle local issues and find solutions to take forward at the next Area Board. 
+#+END_QUOTE
+
+The Warminster and Villages Community Area Board has identified a number of priority themes:
+
+    - Youth engagement, employment and positive activity opportunities
+    - Housing and employment
+    - Reducing isolation and loneliness
+    - Supporting the local economy
+    - Supporting digital inclusion
+
+These priority themes, and the actions to address them, have been developed into a Warminster and Villages Community Plan.  The Community Board  has a sub-group known as the Community Area Transport Group.  It describes its operation as follows:
+#+BEGIN_QUOTE
+Community Area Transport Groups (CATGs) are sub-groups of the area boards that aim to find solutions for local transport issues such as road repairs, traffic problems, road layouts and parking. Each group has about 10 members including area board members, town and parish council members and community representatives.
+
+The meetings are also attended by relevant officers from Wiltshire council including a senior transport planner, a senior traffic engineer and a local highway maintenance engineer as necessary. Their key purpose is to offer advice and support to the group but they do not vote on the issues raised. The CATG may also invite representatives from local organisations to its meetings to give technical advice or to share local knowledge. 
+#+END_QUOTE
+Links:
+- [[https://www.wiltshire.gov.uk/council-democracy-area-boards][An explanation of what Area Boards do]]
+- [[https://cms.wiltshire.gov.uk/documents/s65430/Community%20Plan%20Final%20v5.pdf][Warminster and Villages Community Plan]]
+- [[https://www.wiltshire.gov.uk/media/6933/Warminster-community-area-map/pdf/WarminsterAB2021.pdf?m=637635951654130000][Warminster and Villages Community Area Map]]
+- [[https://ocm.wiltshire.gov.uk/Warminster][Our Community Matters: Warminster and Villages Web Site]]
+* Values and vision /[Rewrite this once everything else has been drafted]/
+- [The benefits of living within a rural community and the access it gives to the surrounding countryside are rated highly.   There is a desire to retain the existing charm and beauty of the three villages and a strong preference to limit development.]
+- [Over time the community wish to see improvements to local facilities and services, and improvements to Rights of Way.  Concern about the river, mostly relating to maintenance and minimising the risk of flooding, and improved safety on roads through our villages are issues needing attention.]
+* Parish Plan statistics
+The 2022 survey had a lower response rate than the 2014 survey.  In view of the coronavirus restrictions we did not conduct door-to-door deliveries of the questionnaire, but used email and the Parish News to inform residents of the survey.  This may account to some extent for the difference.  Here is the breakdown by village:
+
+Households in each village 
+| Brixton Deverill | Monkton Deverill | Kingston Deverill | Total |
+|               30 |               50 |                74 |   154 |
+
+
+Survey questionnaires returned
+| Brixton Deverill | Monkton Deverill | Kingston Deverill | Total |
+|               13 |               13 |                21 |    47 |
+
+Survey response rate by village
+| Brixton Deverill | Monkton Deverill | Kingston Deverill | Upper Deverills |
+|              43% |              26% |               28% |             31% |
+
+* What you said about priorities
+According to your responses to the survey, the rankings of matters to be addressed in the plan were as follows:
+** Overall rankings across all three villages
+1. Traffic, including road safety on the B3095 and the reduction of HGV traffic
+2. Mobile phone reception
+3. Conservation and restoration of the local environment, including its ecologyx
+4. Sustainability measures to protect the wider environment and impacts of climate change
+5. Community facilities
+** By village:
+*** Brixton Deverill
+1. Traffic, including road safety on the B3095 and the reduction of HGV traffic
+2. Conservation and restoration of the local environment, including its ecology
+3. Mobile phone reception
+4. Sustainability measures to protect the wider environment and impacts of climate change
+5. Community facilities
+*** Monkton Deverill
+1. Traffic, including road safety on the B3095 and the reduction of HGV traffic
+2. Conservation and restoration of the local environment, including its ecology
+3. Mobile phone reception /tied witho/ sustainability measures to protect the wider environment and impacts of climate change
+5. [@5] Community facilities
+*** Kingston Deverill
+1. Traffic, including road safety on the B3095 and the reduction of HGV traffic
+2. Mobile phone reception
+3. Conservation and restoration of the local environment, including its ecology
+4. Community facilities
+5. Sustainability measures to protect the wider environment and impacts of climate change
+
+* The Parish and our villages /[REWRITE IF TIME - LOOKS MORE OR LESS OK]/
+** The Upper Deverills and the Local Area
+The Upper Deverills Parish covers the three villages of Kingston Deverill, Monkton Deverill and Brixton Deverill. The villages form a chain along the valley of  the River Deverill which rises just to the west of Kingston Deverill and, on joining the Shearwater stream at Crockerton, becomes the River Wylye. 
+
+Administratively the Upper Deverills are in the Warminster Community Area within the local authority area of Wiltshire.
+
+The Parish is located in the Cranborne Chase and West Wiltshire Downs AONB.
+
+With few facilities in the immediate area, residents look to Warminster and Mere for local services. Salisbury and Bath offer a wider range of facilities and can be reached by car, train and bus (via Warminster. The bus service runs 3 times a day Monday to Saturday). A rail service between London and Exeter/Penzance can be accessed at Tisbury and the London/Bristol line at Westbury. 
+
+The Parish is also well located for access to the tourist attractions of Longleat, Centre Parcs, Stourhead, Stonehenge, Bath, Salisbury etc.
+** A Brief History
+The valley has been continuously inhabited by farming people since at least 3500BC, and there are numerous tumuli, earthworks and barrows. Ancient field systems are still visible today on Pertwood Down, Court Hill and at Monkton Deverill. 
+
+The valley was important in Roman times with settlements at Cold Kitchen Hill and Whitecliff Down. Two Roman roads crossed the Parish, one an ancient lead road from Portchester, the other from Poole. The roads join at the boundary between Kingston Deverill and Monkton Deverill where a ford crosses the river.
+
+At the time of the Domesday survey (1086) Monkton Deverill was the largest settlement with a population of 285 (with land for 9 ploughs), Brixton Deverill had a population of 80 – 120 people in 27 households (with land for 7 ploughs) and Kingston Deverill had a population of only 34 in 9 households (with land for 3 ploughs).
+
+Before the Reformation most of the land in the Parish was owned by the Church. Brixton Deverill manor was given to the Norman Abbey of St Mary of Bec-Hellouin by Queen Maud, wife of William the Conqueror, before her death in 1083. Monkton Deverill belonged to the Abbots of Glastonbury from the 10th century until after the Reformation when the village was purchased by Sir John Thynne. It was sold in the 1940s to help pay death duties.
+
+The Ludlow family owned Kingston Deverill from the 16th century. Lord Weymouth bought the land in 1737 bringing the whole valley into Thynne ownership.
+
+Until World War II farming was the main source of employment in the valley. Sheep (it is recorded that in 1289 there were 1143 sheep on Brixton Downs) and cattle were raised and corn was a successful crop. After the Second World War the farmed acreage in the Deverill parishes more than doubled. However, with changes in farming practice the number of farms reduced. In all three villages there are former farmhouses and farm buildings that have been converted to residential use. Today only a small number of residents work on the land.
+** Residents and their Occupations
+The Parish population has reduced significantly over the last 200 years. In 1811 there was a combined population of 572 but by 2011 this had fallen to 331. The population was at its peak of 824 in 1841 since when it has steadily declined.
+
+Interestingly, at the time of the 2011 Census, only 15.6% of the population were aged 0-17 years, 32% were aged 45-59 years and 31% were aged 60+.  The community is clearly facing a future in which a significant proportion of the Parish population is composed of older people.
+
+At the time of the 2011 Census residents aged 16 to 74 (178 people) worked in a wide range of industries  with the highest percentages working in Agriculture, Forestry and Fishing (14%) and Human Health & Social Work Activities (also 14%).
+* Themes
+** Traffic and transport
+Two roads pass through the Upper Deverills: the B3095 Longbridge Deverill to Mere Road, which runs through all three villages, and Kingston Lane, which leaves the B3095 in Kingston Deverill and goes to Maiden Bradley.
+
+None of our three villages has any pavements, so the roadway is shared by pedestrians, riders, cyclists, farm vehicles, motor cars, vans and heavy goods vehicles.
+
+There has long been a desire in the community to reduce the volume of traffic using the B3095 and to restrict heavy goods vehicles to those with destinations in the valley.  During 2012 and 2013 a Parish Council Working Group undertook considerable research and consultation in relation to traffic use of the B3095.  This included representation to and working with Wiltshire Council to achieve a 7 tonne weight restriction on the road.  This weight restriction was agreed by Wiltshire Council but was not implemented, because the Highways Agency said that it need to completed road layout and signage changes on the A303 to provide an alternative route for heavy vehicles.   
+*** Findings
+ HGV traffic reduction and improved road safety on the B3095 were considered by the respondents to the questionnaire to be the highest priority in each of our three villages.
+
+When asked whether the Plan should press Wiltshire Council and Highways England to increase the safety of users of the B3095, including the reduction of HGV traffic, the responses were as follows:
+
+
+#+ATTR_HTML: :class align centre
+
+|          | <c20> |          <c20>          |  <c20>   |
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  | 100%  |           Nil           |   Nil    |
+| Monkton  | 100%  |           Nil           |   Nil    |
+| Kingston |  90%  |           Nil           |   10%    |
+|----------+-------+-------------------------+----------|
+| Overall  |  96%  |           Nil           |    4%    |
+
+Many respondents added their comments and suggestions on the subject of traffic:
+- Road safety should be improved, to make the B3095 less dangerous for pedestrians, cyclists and riders. This should be achieved by reducing the number of vehicles travelling through the valley, and reducing the speed at which they travel, whether they are goods vehicles, cars, or farm traffic.
+- There was significant support for a reduction in speed limits, particularly through the villages themselves, where several respondents felt that a 20mph limit would be appropriate given the lack of a pavement and the narrowness of the carriageway.  It was also suggested that a 15mph limit should be imposed on the road from St Mary's Church to the Gliding Club in Kingston Deverill.
+- Other measures to reduce speeding and  better control traffic were also suggested, such as pinch points at the entry to the villages, speed bumps in the road,  signage warning drivers of pedestrians and horses in the road, a weight restriction on the bridge in Brixton Deverill, improved visibility at junctions and stricter enforcement of existing speed limits.  It should be noted that the Upper Deverills Speedwatch team have been operating successfully for over a year and have succeeded in making a significant reduction to the number of vehicles breaking existing speed limits.  The Speedwatch team would be well placed to enforce any reduced speed limits in order to give them maximum effect.
+- The question of the outstanding implementation of the 7 tonne limit on the B3095 was raised once again, and it was suggested that the Parish Council should test the claim that heavy goods vehicle traffic on the B3095 can only be reduced is the A350/A303 junction is upgraded.  It is understood that this upgrade is unlikely to take place until 2030.
+- It was suggested that local car sharing might both reduce traffic and improve sustainability, and that a mechanism might be set up to support this.
+
+  Concern was also expressed about the state of the roads and verges.  While the work of the Parish Steward in filling potholes and making minor repairs was much appreciated it was felt that, given more time and resources, he could achieve more and execute repairs to a higher standard, with tack coats, butt joints and more durable tarmac repair materials.  It was observed that the roads seem to be cleaned less frequently by Wiltshire Council, which on occasion could make the state of the roads hazardous.  There was a view that the road verges should be better protected in those places where they were vulnerable to damage by traffic and farm machinery.
+
+*** Outcomes
+The following outcomes are supported by the community:
+- Implementation of the already-agreed 7 tonne weight restriction on through traffic on the B3095, leading to a reduction in the number of heavy goods vehicles using the valley roads as a short cut.
+- Action to make the valley's residents feel safer (and be safer) from traffic, whether they are parents with young children, pedestrians (some of whom are elderly), riders, cyclists or runners.
+- Improvements to the repair and cleaning of the carriageway and to the protection of verges.
+- An increase in car-sharing.
+- A successful challenge to the narrative that /“only an upgrade to the A303/A350 junction can constrain HGVs on B3095 through the Deverills”/ as this will happen not before 2030.
+- Instead:
+  - Initially: secure no northbound access of HGVs through the Deverills.  Alternative would be signage to access the A350 from the A303.
+  - Secondly: secure removal of 7.5t restrictions on B3089 to allow HGV westbound access to A303 without turning across A303.
+- Subsequently a roundabout at the A303/A350 junction.
+**** Action
+- Form a Community Action Group organised to lobby, influence and engage with protagonists.
+- Develop an engagement plan for individuals and the Community Action Group to engage: 
+  - Andrew Murrison MP: letters.
+  - Wiltshire Council: regular challenge and engagement.
+  - Ward councillor: regular challenge and engagement.
+  - Road Safety Organisations: eg Road Safety Foundation.
+- Promote media activity.
+- Establish our own data on HGV numbers using B3095: weights, speeds, and type of business .
+** Mobile phone coverage
+*** Findings
+Our settlements are small and we live in a valley that is surrounded by high hills.  These two factors combine to give us a problem with mobile telephone coverage.  The lack of mobile phone reception in our villages was ranked as the second highest priority overall. It was second highest in Kingston Deverill and third in both Monkton and Brixton Deverill.
+  
+When asked whether the Plan should seek to improve mobile phone coverage within the Upper Deverills the responses were as follows:
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |   96% |                      4% | Nil      |
+| Monkton  |   93% |                      7% | Nil      |
+| Kingston |   76% |                     15% | 10%      |
+|----------+-------+-------------------------+----------|
+| Overall  |   86% |                      9% | 4%       |
+|----------+-------+-------------------------+----------|
+
+*** Background
+In 2019 the Government announced initiatives to tackle poor mobile phone coverage in rural areas. Their declared aim is to bring 4G coverage to 95 per cent of the UK by 2025, tackling both /Total Not-Spots/ (where there is no mobile phone coverage) and /Partial Not-Spots/ (where not all networks can be received). 	
+
+Upper Deverills is classified as a /Partial Not Spot/ and the aim is to provide network coverage from all four mobile network operators on sites which are not currently served by all of them.
+
+In December 2021 the Parish Council designated a Councillor as lead for improving mobile phone service and he is working with two other individuals on the initiative.
+
+A number of utilities now assume that customers have access to mobile telephone coverage.  Smart electricity meters, smart water meters and remote oil tank sensors all need a mobile signal, and therefore they are not available to  many Upper Deverills residents.  
+
+The requirement for mobile coverage to every house in the Parish has been made more urgent by BT's plan to switch off the Public Switched Telephone Network (PSTN) by 2025, to coincide with the introduction of their /Digital Voice/ service.   This will create a significant problem for us during power cuts.  While the PSTN will continue to operate through a power cut, Digital Voice will not.  For those households which lack any mobile telephone signal (perhaps the majority in the Parish) this leaves us without the ability to call 999 in an emergency.
+
+Although the network operators are obliged (by Ofcom, the communications regulator) to provide standby power to vulnerable customers for the first hour of any power cut, this will not suffice.   The power cuts that affect our villages, particularly during extreme weather, often last for much longer than an hour.  During the second and subsequent hours of a power cut, we will therefore be completely cut off from the emergency services.  This is clearly not acceptable.  We should lobby hard for the mobile network operators and the PSTN supplier (BT) to synchronise their programmes so that no household in the valley loses the ability to call 999 during an extended power cut. 
+*** Outcomes
+- Achieve 100% emergency mobile coverage of every household in the Upper Deverills before they lose access to PSTN (or conversely, to maintain PSTN capabilities until mobile coverage is available).
+-  Achieve 95% 4G mobile phone coverage of properties and highways within the Upper Deverills by at least two MNOs and preferably four.
+*** Action
+- The Parish Council  to continue to support the mobile phone initiative particularly including liaison with, and putting pressure on, the mobile network operators . If satisfactory progress is not made, consider involving our MP and challenging effectiveness or adequacy of Government policy.
+- Set up an Action Group to collect evidence about emergency mobile coverage and the frequency and duration of power cuts, and to identify and support fellow residents who may need assistance in dealing with their telephone service provider.
+** Nature conservation and sustainability
+*** Findings
+Nature conservation and restoration of the local environment, including its ecology, was ranked as the third highest priority in the questionnaire. 
+
+When asked whether the Plan should propose how to monitor, promote the ecological health of the countryside, including biodiversity and habitat protection the responses were as follows:
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |  100% |                     Nil | Nil      |
+| Monkton  |   96% |                      4% | Nil      |
+| Kingston |   85% |                      5% | 10%      |
+|----------+-------+-------------------------+----------|
+| Overall  |   93% |                      3% | 4%       |
+|----------+-------+-------------------------+----------|
+
+When asked whether the Plan should propose how to monitor and improve the ecological health of the River Wylye the response was as follows:
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |   96% | 4%                      | Nil      |
+| Monkton  |  100% | Nil                     | Nil      |
+| Kingston |   90% | Nil                     | 10%      |
+|----------+-------+-------------------------+----------|
+| Overall  |   95% | 1%                      | 4%       |
+|----------+-------+-------------------------+----------|
+*** Background
+The Environment Act 2021 sets targets for the recovery of the natural world, including reversing the decline in species abundance.  It sets in law new tools that will beused to deliver a Nature Recovery Network of wildlife-rich places, and gives local communities an important role in expanding, improving and connecting these places.
+
+Responding to the Act, Wiltshire Council is publishing the Wiltshire Green Blue Infrastructure Strategy in Spring 2022.  It will include a Community Environmental Toolkit which provides communities with guidance on how to produce their own Community Environmental Plans and play their part in reversing species decline and restoring habitats.		
+*** Outcomes
+- Accurate and comprehensive wildlife records giving us a deep and rich understanding of nature in the valley.
+- An improved level of knowledge and understanding of wildlife, conservation and sustainability throughout the community.
+- A reversal of species decline in the valley.
+- Expanded, improved and better connected habitats.
+- A healthy river, full of life.
+*** Actions
+- Set up an Upper Deverills Wildlife and Conservation Group, to organize talks and walks, conduct field studies, and carry out surveying and mapping, habitat restoration and species recovery projects.
+- Create and carry out a Community Environmental Plan (the Conservation and Wildlife Group to lead).
+- Improve the strength of our links with bodies such as the Area of Outstanding Natural Beauty organisation, Wiltshire Wildlife Trust and the Wiltshire Ornithology Society
+** Planning
+**** Findings
+When asked whether the Plan should support housing developments in their village if they involve building on fields or open spaces the responses were as follows:
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |   18% |                     11% |      71% |
+| Monkton  |    7% |                     22% |      70% |
+| Kingston |   29% |                     17% |      54% |
+|----------+-------+-------------------------+----------|
+| Overall  |   20% |                     21% |      59% |
+|----------+-------+-------------------------+----------|
+
+When asked whether the Plan should support housing developments in ther village if they involve building to infill gaps between existing buildings the responses were as follows:
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |   29% |                     39% |      32% |
+| Monkton  |   30% |                     37% |      33% |
+| Kingston |   49% |                     24% |      27% |
+|----------+-------+-------------------------+----------|
+| Overall  |   38% |                     32% |      30% |
+|----------+-------+-------------------------+----------|
+
+
+When asked whether the Plan should support commercial or business developments in their village if they involve building on fields or open spaces the responses were as follows:
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |       |                      4% |      96% |
+| Monkton  |    7% |                     22% |      70% |
+| Kingston |   17% |                     24% |      59% |
+|----------+-------+-------------------------+----------|
+| Overall  |    9% |                     18% |      72% |
+|----------+-------+-------------------------+----------|
+
+When asked whether the Plan should support  commercial or business developments in their village if they involve building to infill gaps between existing buildings the responses were as follows:
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |   11% |                     25% |      64% |
+| Monkton  |   30% |                     22% |      48% |
+| Kingston |   34% |                     27% |      29% |
+|----------+-------+-------------------------+----------|
+| Overall  |   26% |                     25% |      49% |
+|----------+-------+-------------------------+----------|
+
+When asked whether the Plan should support planning applications that promote renewable energy the responses were as follows:
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |   36% |                     57% |       7% |
+| Monkton  |   56% |                    44%% |          |
+| Kingston |   88% |                      5% |       7% |
+|----------+-------+-------------------------+----------|
+| Overall  |   64% |                     31% |       5% |
+|----------+-------+-------------------------+----------|
+
+To summarize these results:  a clear majority of respondents did not agree that the Plan should support housing developments in their village if they involved building on fields or open spaces.
+
+Opinion was fairly evenly divided between those who agreed and those who disagreed that the Plan should support housing developments in their village if the involved building to infill gaps between existing buildings.
+
+A clear majority of respondents did not agree that the Plan should support commercial or business developments in their village if they involve building on fields or open spaces.
+
+More respondents that did not agree that the Plan should support commercial or business developments in their village if they involved building to infill gaps between existing buildings than  those who agreed, but there was not an absolute majority. 
+
+A majority of respondents agreed that the Plan should support planning applications that promote renewable energy.  The strength of feeling varied substantially between the three villages.
+
+A majority of respondents in both Monkton and Kingston agreed that the Parish Plan should recommend an assessment of the desirability and feasibility of a Monkton and Kingston Conservation area respectively.
+
+**** Background
+******** Thus residents' planning applications should be considered sympathetically, on their individual merits, when they do not conflict with these principles.
+******** The Wiltshire Core Strategy Development Plan identifies four types of settlements. Under the plan there is a general presumption against development in settlements that are not identified in the plan, which includes the Upper Deverills. One of the types of settlements is “large and small villages”. Small villages have a low level of services and facilities, and few employment opportunities. The nearest settlement to the Upper Deverills mentioned in the Plan and in the small villages category is Longbridge Deverill. The plan also says that “some very modest development may be appropriate at small villages, to respond to local needs and to contribute to the vitality of rural communities.
+******** Whilst there is a general presumption against development in settlements not listed in the plan, other policies, such as those supporting agriculture or forestry, do provide some very limited exceptions. Another policy also allows for the allocation of, or granting of planning permission for, small sites comprising affordable housing only as an exception to normal policies. The policy sets out the criteria against which such proposals will be evaluated and under what circumstances schemes solely for affordable housing may be permitted.	
+******** The Wiltshire Core Strategy is under review. This Local Plan review will set out a vision for the future of Wiltshire for the period to 2036 and a framework for addressing housing needs and other economic, social and environmental priorities.		
+**** Outcomes 
+******** Where development (whether residential or commercial) takes place, it must preserve the character of our villages and the natural beauty of the landscape. 
+******** In particular, development of any kind should not involve building on fields or open spaces, nor should it result in an increase in traffic. 
+******** Within these limitations, our villages should be allowed to evolve naturally and the built environment should respect the past without being overly constrained by it. 
+******** Certain types of housing would be more welcome than others: such as starter homes for young families, and single storey houses suitable for older people to move into when they wish to downsize. 
+******** There should be no large-scale wind farm or solar farm development in the Parish. 
+******** There should be increased use of small-scale use of renewable energy solutions such as heat-pumps and domestic solar panels, where they do not conflict with the character of our villages. 
+**** Actions 
+******** The Parish Council should reflect the values and views expressed above above when responding to planning applications.
+** Conservation Areas
+** For Brixton Deverill residents only:
+The new Parish Plan should propose how to secure a Conservation Area Appraisal and Management Plan to protect and enhance the Brixton Deverill Conservation area
+
+|---------+-------+-------+----------|
+|         | Agree | Not sure or unconcerned | Disagree |
+|---------+-------+-------+----------|
+| Brixton |   93% |    7% |          |
+|---------+-------+-------+----------|
+
+** For Monkton Deverill residents only:
+The new Parish Plan should assess the desirability and feasibility of a Monkton Deverill Conservation area
+
+|---------+-------+-------+----------|
+|         | Agree | Not sure or unconcerned | Disagree |
+|---------+-------+-------+----------|
+| Monkton |   52% |   26% |      22% |
+|---------+-------+-------+----------|
+
+** For Kingston Deverill residents only:
+The new Parish Plan should assess the desirability and feasibility of a Kingston Deverill Conservation area
+
+|----------+-------+-------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------+----------|
+| Kingston |   56% |   17% |      27% |
+|----------+-------+-------+----------|
+
+*** Findings
+******* A majority of respondents in both Monkton and Kingston were in favour of an assessment of the desirability and feasibility of designation as Conservation Areas.
+*** Background
+******* A conservation area is an area of special architectural or historic interest, the character, appearance or setting of which it is desirable to preserve or enhance. Conservation areas are normally designated by the local planning authority, Wiltshire Council.
+******* Once designated, there are some extra planning controls and considerations in place to protect the historic and architectural elements which make the place special.  As a result, they are most likely to affect work on the outside of properties. When a planning application is submitted for development in a conservation area, in dealing with it the planning authority is required by legislation to pay special attention to the desirability of preserving or enhancing the character or appearance of the area.  The National Planning Policy Framework (NPPF) acknowledges that not all elements of a conservation area will necessarily contribute to its significance.
+******* In a conservation area there are also more limitations on development, such as an extension to a house, that can be done without planning permission compared with other non-designated areas. In addition, there are further controls regarding demolition and works to trees with residents being required to notify the local planning authority six weeks before the work is undertaken. Designation is the formal process of Wiltshire Council establishing the conservation area and requires the process to be properly followed otherwise the designation could be challenged. But is it only the starting point of the council’s role in managing the new heritage asset.
+******* Ideally prior to designation the local planning authority should carry out, or have carried out a Conservation Area Appraisal. This might additionally include a photographic survey of all buildings being included at the time of designation.
+******* Following on from designation a Management Plan is the key tool for fulfilling the council’s duties to review the conservation area and its boundaries  and formulate and publish proposals for the preservation and enhancement of the area.
+******* All properties within a conservation area are required to have this recorded as a local Land Charge. Residents and businesses in a conservation area need to know they may need permission from the Council before making alterations such as cladding, inserting windows, installing satellite dishes and solar panels, adding conservatories or other extensions, laying paving or building walls.
+*** Outcomes
+******* Achievement of a clear understanding of the implications for residents of designation as a Conservation Area.
+******* If (and only if) a majority in the village wish it, preparation (by Wiltshire Council) of a Conservation Area Appraisal.
+*** Actions
+******* The Parish Council should communicate clearly to residents the implications of designation as a Conservation Area.
+******* The Parish Council should take informal soundings from Wiltshire Council about their appetite to embark on the designation process. 
+******* For each village, given a positive outcome to the first two steps.
+******* the Parish Council should formally request Conservation Area Appraisals. 
+******* Wiltshire Council should carry out the Appraisals.
+** Community Facilities and Activities
+**** Findings
+*** Identify the most important community facilities, assess their condition and propose how to improve them to meet the needs of residents
+
+|----------+-------+-------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------+----------|
+| Brixton  |   71% |   29% |          |
+| Monkton  |   78% |   22% |          |
+| Kingston |   83% |   17% |          |
+|----------+-------+-------+----------|
+| Overall  |   78% |   22% |          |
+|----------+-------+-------+----------|
+
+******** In responding to the 2022 Parish Plan survey, a strong majority (78%) agreed that the Parish Plan should identify the most important community facilities, assess their condition and propose how to improve them to meet the needs of residents. Nobody disagreed, and the breakdown by village was as follows: Brixton Deverill 71%, Monkton Deverill 78% and Kingston Deverill 83%.
+******** Our historic churches in Brixton and Kingston should be conserved and preserved.  In addition to their use for worship, christenings, weddings and funerals, some respondents felt that they should be used as village community centres.  However, others felt that the churches should be “kept as churches”.
+******** There should be better provision for children and young people, such as modest playground that might be enlarged in future,  with a swing or two or perhaps a see-saw.	
+******** We should sustain and encourage sports, arts, music, clubs and societies, and the Village Hall’s programme of events, in order to support a vibrant village community.	
+******** The future of the Village Hall should be safeguarded, despite the current building coming to the end of its useful life. However, several respondents felt that any future hall should be kept small, and compact – sized for our three villages but not set up on a scale that would require (or attract) large numbers of people from outside our community.
+Links:
+- [[http://www.westwilts-communityweb.com/site/Warminster-and-Villages-Community-Partnership/Warminster%20JSA%20Culture.pdf][Joint Strategic Assessment for Culture, Warminster Community Area]]
+  
+**** Background
+******** A proposal to develop and reorder St Mary’s Church in Kingston Deverill was developed by a sub-committee of the Parochial Church Council (PCC) in 2019 and was submitted to the PCC in May 2020. It is currently on hold pending PCC decisions. A separate application for permission (‘Faculty’) is in progress for the repair and conservation of the font, for which a grant has been obtained from St Andrew’s Conservation Trust.	
+******** The Village Hall Committee conducted a survey in August 2019 to seek the views of the community on the future of the Village Hall. There was a high level of responses all of which supported the continued provision of a Village Hall as a hub for the community. A Future Village Hall project was initiated, but then put on hold until 2022 in view of the coronavirus pandemic.	
+******** The Village Hall hosts a full programme of pub nights, quizzes, village feasts, dramatical presentations and is used by art and fitness groups.	
+******** A number of younger families with children have moved into the three villages.	
+******** The cricket club continues to play several matches each summer.
+******** A “coffee and crafts” afternoon is now held in the Village Hall on the last Monday afternoon of every month.
+******** The Parish Council has set up a comprehensive web site which complements the Parish News as a source of information and a means of communication. In addition the Upper Deverills Facebook page continues to be widely used.	
+******** The Parish News, Parish Council website and Upper Deverills Facebook page should continue to be used, in combination, to exchange and publish information of interest and value to the community.
+**** Outcomes
+******** Both churches continue to thrive, and their buildings are properly maintained. 
+******** The Village Hall building is replaced when it can no longer be maintained.
+******** Young families with children feel that their needs are met. 
+******** Effective communication and easily accessible information for residents, new arrivals and visitors .
+******** There is a rich social, cultural and sporting life in our villages.
+**** Actions 
+******** The PCC and the valley community should seek to maintain both churches and, where appropriate, develop their facilities in order to continue to use them as active places of worship and venues for celebration and commemoration.
+******** The Village Hall Committee, Parish Council and valley community should work together to fund and deliver a programme of work on a Future Village Hall.
+******** With the arrival (and birth) of a number of younger children in the valley, consideration should once again be given to the creation of a children’s playground, perhaps as a project to mark the Queen’s Platinum Jubilee.
+******** The Parish Council and the Village Hall Committee should explore, with neighbouring Councils and Village Halls, the potential for joint events and activities. 
+******** The community should continue to support the Cricket Club and the Village Hall's programme of events.
+******** Consideration should be given to the provision of an information pack for families moving into the valley. 
+** Policing and Community Safety
+*** Findings
+******* The Plan questionnaire did not ask any questions focussed on policing and community safety. There were no additional comments on this topic. This suggests that residents are broadly content with the current situation. 
+*** Background
+******* Policing in Wiltshire is governed by the National Police Chiefs' Council's Policing Vision 2025 and the Wiltshire and Swindon Policy and Crime Plan 2022-2025. The latter states that local communities will be involved in decision making, our concerns will be listened to, the visibility of policing will be improved, and the design of services will be based on the public's experience of how well the service is working for us.  More officers will be recruited, every victim who reports a crime will receive a prompt response including a visit from the police, and there will be increased investment in the digital capability of the force.
+******* There is a Neighbourhood Watch scheme in operation which covers the Upper Deverills and also Hill Deverill, Longbridge Deverill and Crockerton.		
+******* A Community Safeguarding Group was set up at the beginning of the coronavirus pandemic, to help neighbours to help each other, particularly during the lockdowns, and to share and disseminate information, principally by email.		
+******* Wiltshire Police maintain an clear understanding of the policing needs of the valley and allocate appropriate resources to the prevention and detection of rural crime.
+*** Outcomes
+******* Wiltshire Police understand the policing needs of the valley and allocate appropriate resources to the prevention and detection of crime.
+******* The Parish Council has developed a community resilience policy.
+******* Encourage and support the local Neighbourhood Watch scheme.
+*** Actions
+******* Parish Council: seek clarification, from Wiltshire Police, of the changes that we can expect to see in:
+******** the alignment of policing with other services. 
+******** an increased focus on prevention. 
+******** improved data sharing and communication. 
+******** consulting local people on their concerns and their experience of the police service.
+******** how the local demand for policing will be assessed.
+******* Keep the Community Safeguarding Group in being and maintain the associated email lists.
+******* Parish Council: periodically review and revise the community resilience policy. 
+******* Remind residents of the ways to report fly-tipping to Wiltshire Council. 
+** Health and Social Care
+*** Findings
+****** Issues raised relating to health and social care include suitable housing provision; ensuring that the community supports and retains a mix of ages; and the provision of more flexible transport. 
+*** Background
+****** The valley is home to a substantial number of older people.
+****** The majority of residents are registered with the Mere Practice or the Avenue Practice for primary health care.
+****** The area is served by Salisbury District Hospital and the Royal United Hospitals Bath, with some specialist care being provided at Southampton General Hospital.  Certain services are provided more locally at the Westminster Memorial Hospital in Shaftesbury (where there is a Minor Injuries Unit) and Warminster Community Hospital.
+*** Outcomes 
+****** A continuing vibrant community with a mixture of ages.
+****** High quality health care, delivered with compassion by people who we get to know, and who get to know us as individuals.
+*** Actions
+****** The Parish Council to develop a relationship with our primary health providers
+** Flooding
+*** Findings
+Links
+- [[https://cms.wiltshire.gov.uk/documents/s112683/Warminster%20Flooding%20Issues.pdf][Warminster Community Area Flooding Issues]]
+*** Outcomes
+*** Actions
+**  Dark Skies
+*** Findings
+**** Seek to protect Upper Deverills according to the Dark Skies status of the Cranborne Chase Area of Outstanding Natural Beauty
+
+
+|----------+-------+-------------------------+----------|
+|          | Agree | Not sure or unconcerned | Disagree |
+|----------+-------+-------------------------+----------|
+| Brixton  |   96% |                      4% |          |
+| Monkton  |  100% |                         |          |
+| Kingston |   90% |                     10% |          |
+|----------+-------+-------------------------+----------|
+| Overall  |   95% |                      5% |          |
+|----------+-------+-------------------------+----------|
+
+*** Outcomes
+*** Actions
+* Way Forward and Action Plan (TO BE COMPLETED - THIS IS JUST A PLACE HOLDER)  
+#+INCLUDE: ~/Dropbox/universe/room-office-dropbox/desk-parish-plan/parish-plan-action-plan.org
+* Annexes:  
+1. Listed Buildings
+2. Clubs, Associations and Groups in the Parish
+3. Parish Plan Working Group members
+** Annex 1: Listed Buildings within the Upper Deverills Parish 
+**** Brixton Deverill 
+- Georges Barn 
+- Whitecliff Farmhouse 
+- Drove End (Cross Cottage) 
+- Bridgewalk House 
+- Dairy Cottage 
+- Bridge Cottage 
+- The Manor House 
+- Manor Farm Cottage 
+- Church of St Michael 
+- The Old Rectory 
+- Telephone Kiosk 
+- The bridge  
+**** Monkton Deverill
+- Burton Farmhouse 
+- Manor Farmhouse 
+- The Old School 
+- 86 Monkton Deverill  
+- Former Church (St Alfred the Great) and Whiting monument 
+**** Kingston Deverill
+- Keysley Farmhouse
+- Hedge Cottage 
+- Marvins 
+- Humphrey’s Orchard 
+- Barn at Manor Farm 
+- Pope’s Farmhouse and Flat 
+- Church of St Mary and Young 
+- monument 
+- Kingston House 
+- 35 Kingston Deverill 
+- 36 & 38 Kingston Deverill   
+- 39 Kingston Deverill  
+** Annex 2: Clubs, Associations and Groups in the Parish 
+The following are active within our Community: 
+- Upper Deverills Parish Council 
+- Parochial Church Council 
+- Village Hall Committee 
+- Deverills Cricket Club 
+- Deverills Players 
+- Deverills Book and Dining Club 
+- Deverills Festival 
+- Bell Ringing 
+- North Dorset and Somerset Gliding Club 
+- Model Flying Club 
+- Pilates Groups 
+- Deverills Raptor and Owl Group (DROG) 
+- Pub Night – Cricketers’ Legs 
+- Salisbury Theatre Club 
+- ‘Look and See’ Art Group 
+- Wylye Valley Arts Trail 
+- Deverill Valley and Crockerton WI 
+- Cast on Club 
+- Warminster Walkers 
+- School of Infantry Beagles 
+- South and West Wiltshire Hunt 
+- Salisbury and District Angling Club - fly fishing 
+- Parish Plan Working Group 
+** Annex 3: Parish Plan Working Group Members
+Ted Flint
+Richard Munro
+Richard Kitson
+Kevin Abraham
+ 
+
+
